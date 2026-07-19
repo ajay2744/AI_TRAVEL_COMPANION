@@ -38,3 +38,7 @@ Agentic AI Travel Companion built with LangGraph, FastAPI, React, and Gemini. Fe
 ✅ Async Retrieval
 
 ✅ Git
+
+
+<img width="1897" height="892" alt="image" src="https://github.com/user-attachments/assets/bbb30cf2-b724-4387-8ceb-bd56d3e69ef4" />
+
