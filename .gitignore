@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# SQLite
+*.db
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# LangGraph cache (if generated)
+.langgraph/
+
+# OS
+.DS_Store
+Thumbs.db
+
+##################################################
+# React
+##################################################
+
+client/node_modules/
+client/dist/
+
+##################################################
+# Vite
+##################################################
+
+client/.vite/
+
+##################################################
+# Coverage
+##################################################
+
+coverage/
+htmlcov/
+
+##################################################
+# Secrets
+##################################################
+
+*.pem
+*.key
+*.crt
